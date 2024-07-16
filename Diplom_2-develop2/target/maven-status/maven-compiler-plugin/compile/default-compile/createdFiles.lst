@@ -1,0 +1,8 @@
+site\nomoreparties\stellarburgers\pojo\Order.class
+site\nomoreparties\stellarburgers\pojo\User.class
+site\nomoreparties\stellarburgers\apirequests\OrderRequests.class
+site\nomoreparties\stellarburgers\apirequests\UserRequests.class
+site\nomoreparties\stellarburgers\pojo\Ingredient.class
+site\nomoreparties\stellarburgers\apirequests\IngredientRequests.class
+site\nomoreparties\stellarburgers\pojo\Data.class
+site\nomoreparties\stellarburgers\apirequests\ApiBase.class
