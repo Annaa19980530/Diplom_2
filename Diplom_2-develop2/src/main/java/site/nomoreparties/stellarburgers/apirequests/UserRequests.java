@@ -6,6 +6,7 @@ import site.nomoreparties.stellarburgers.pojo.User;
 
 import static io.restassured.RestAssured.given;
 
+
 public class UserRequests extends ApiBase{
 
     private final static String ENDPOINT_PATH = "/api/auth/";

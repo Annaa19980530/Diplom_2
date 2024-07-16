@@ -1,5 +1,6 @@
 package site.nomoreparties.stellarburgers.pojo;
 
+
 public class User {
     private String email;
     private String password;

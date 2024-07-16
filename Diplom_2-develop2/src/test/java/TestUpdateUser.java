@@ -8,6 +8,7 @@ import static org.apache.http.HttpStatus.*;
 import static org.hamcrest.CoreMatchers.equalTo;
 import static org.junit.Assert.assertEquals;
 
+
 public class TestUpdateUser {
     User user = new User("ann4valerevna@yandex.ru","123","Anna");
     UserRequests userRequests = new UserRequests();
