@@ -8,6 +8,7 @@ import site.nomoreparties.stellarburgers.pojo.User;
 import static org.apache.http.HttpStatus.SC_FORBIDDEN;
 import static org.apache.http.HttpStatus.SC_OK;
 
+
 public class TestRegistrationUser {
 
     User user = new User("ann4valerevna@yandex.ru","123","Anna");

@@ -1,5 +1,6 @@
 package site.nomoreparties.stellarburgers.pojo;
 
+
 import java.util.List;
 
 public class Ingredient {

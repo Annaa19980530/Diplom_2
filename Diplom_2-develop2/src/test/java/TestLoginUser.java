@@ -7,6 +7,7 @@ import site.nomoreparties.stellarburgers.pojo.User;
 
 import static org.apache.http.HttpStatus.*;
 
+
 public class TestLoginUser {
     User user = new User("ann4valerevna@yandex.ru","123","Anna");
     UserRequests userRequests = new UserRequests();

@@ -1,5 +1,6 @@
 package site.nomoreparties.stellarburgers.pojo;
 
+
 public class Data {
     private String _id;
     private String name;

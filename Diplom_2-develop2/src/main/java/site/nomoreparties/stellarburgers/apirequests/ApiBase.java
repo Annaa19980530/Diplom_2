@@ -1,5 +1,6 @@
 package site.nomoreparties.stellarburgers.apirequests;
 
+
 import io.restassured.RestAssured;
 
 public class ApiBase {
